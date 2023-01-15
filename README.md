@@ -1,1 +1,7 @@
-# NLP_Practice
+## 전처리 EDA
+- 특수 문자 제거(용도에 따라)
+- Fiture Engineering
+    - 태그 생성(빈도수)
+- 철자 교정
+- 띄어쓰기
+- 단어 토큰화
